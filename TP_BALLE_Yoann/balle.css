@@ -1,0 +1,20 @@
+.title {
+    text-align: center;
+    color: green;
+    font-family: monospace;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 40px;
+    background-color: pink;
+    user-select: none;
+}
+
+.instructions {
+    text-align: center;
+    color: pink;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-style: italic;
+    background-color: blueviolet;
+    user-select: none;
+}

@@ -1,0 +1,15 @@
+.text-red {
+    color: red;
+    visibility: visible;
+}
+
+.button {
+    text-align: center;
+    color: green;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%
+}

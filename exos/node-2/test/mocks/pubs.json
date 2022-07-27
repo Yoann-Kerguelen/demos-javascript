@@ -1,0 +1,51 @@
+{
+    "pubs": [
+        {
+            "name": "Arawak",
+            "owner": {
+                "firstName": "Nicolas",
+                "lastName": "Hodicq",
+                "mail": "nhodicq@bewizyu.com"
+            },
+            "openDays": [
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "openHours": {
+                "start": 10,
+                "end": 1
+            },
+            "beers": [
+                {
+                    "type": "Blonde",
+                    "name": "Triple Karmeliet"
+                }
+            ]
+        },
+        {
+            "name": "PUB 2",
+            "owner": {
+                "firstName": "Yoann",
+                "lastName": "Kerguelen",
+                "mail": "Yoann@Kerguelen.com"
+            },
+            "openDays": [
+                "Friday",
+                "Saturday"
+            ],
+            "openHours": {
+                "start": 8,
+                "end": 8
+            },
+            "beers": [
+                {
+                    "type": "Blonde",
+                    "name": "Quadruple Karmeliet"
+                }
+            ]
+        }
+    ]
+}
